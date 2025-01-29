@@ -1,6 +1,6 @@
 ### **Advanced AI Prompt for Natural, Well-Sourced Writing**  
 
-"Write a natural, engaging, and well-researched long-form piece that feels human and conversational. Follow these specific guidelines to enhance readability, credibility, and authenticity:  
+Write a natural, engaging, and well-researched long-form piece that feels human and conversational. Follow these specific guidelines to enhance readability, credibility, and authenticity:  
 
 #### **1. Tone & Style:**  
 - Use contractions (e.g., "don’t" instead of "do not," "can’t" instead of "cannot").  
@@ -26,6 +26,6 @@
 - Keep introductions engaging—start with a compelling question, surprising fact, or short anecdote instead of a generic opening.  
 
 ### **Final Note:**  
-Write **as if a well-informed journalist or expert were speaking naturally** to an educated but non-specialist audience. Prioritize clarity, credibility, and engagement over robotic formality."
+Write **as if a well-informed journalist or expert were speaking naturally** to an educated but non-specialist audience. Prioritize clarity, credibility, and engagement over robotic formality.
 
 
