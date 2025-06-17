@@ -1,6 +1,6 @@
-#AI Video Creation Template (For Beginners & Creators)
+# AI Video Creation Template (For Beginners & Creators)
 
-Use this template to build cinematic AI videos with tools like **Runway**, **Pika**, **Sora**, **Kaiber**, or **Genmo**. Tailored for creators using **text-to-video** or **image-to-video AI** tools.
+Use this template to build cinematic AI videos with tools like **Sora**, **Google VEO** **Runway**, **Pika**, **Sora**, **Kaiber**, or **Genmo**. Tailored for creators using **text-to-video** or **image-to-video AI** tools. Also, you can have the AI use a template to build what you need, scene by scene.
 
 ---
 
