@@ -1,10 +1,10 @@
-# 🎥 AI Video Creation Template (For Beginners & Creators)
+#AI Video Creation Template (For Beginners & Creators)
 
 Use this template to build cinematic AI videos with tools like **Runway**, **Pika**, **Sora**, **Kaiber**, or **Genmo**. Tailored for creators using **text-to-video** or **image-to-video AI** tools.
 
 ---
 
-## 🎯 1. Video Overview
+## 1. Video Overview
 
 | Field              | Description |
 |-------------------|-------------|
@@ -15,11 +15,11 @@ Use this template to build cinematic AI videos with tools like **Runway**, **Pik
 
 ---
 
-## 🎬 2. Scene Setup
+##  2. Scene Setup
 
 > Use this section to describe the visual environment and feel.
 
-### **🧍 Subject/Character**
+### **Subject/Character**
 | Attribute         | Examples |
 |------------------|----------|
 | **Age/Gender**   | `Young woman`, `Old man`, `Teenage boy`, `Non-binary teen` |
@@ -27,7 +27,7 @@ Use this template to build cinematic AI videos with tools like **Runway**, **Pik
 | **Style**         | `Cyberpunk soldier`, `Businesswoman`, `Casual teen`, `Renaissance painter`, `AI robot` |
 | **Expression**    | `Confident`, `Sad`, `Neutral`, `Angry`, `Hopeful` |
 
-### **👕 Wardrobe**
+### **Wardrobe**
 | Style            | Examples |
 |------------------|----------|
 | **Casual**       | T-shirt, jeans, hoodie |
@@ -36,7 +36,7 @@ Use this template to build cinematic AI videos with tools like **Runway**, **Pik
 | **Sci-Fi**       | Futuristic suit, space helmet |
 | **Historic**     | Victorian gown, Roman tunic, Samurai armor |
 
-### **📍Environment/Background**
+### **Environment/Background**
 | Type             | Examples |
 |------------------|----------|
 | **Urban**        | Rooftop at night, neon street, subway |
@@ -46,7 +46,7 @@ Use this template to build cinematic AI videos with tools like **Runway**, **Pik
 
 ---
 
-## 🎥 3. Shot Design
+## 3. Shot Design
 
 | Element             | Options/Examples |
 |---------------------|------------------|
@@ -57,7 +57,7 @@ Use this template to build cinematic AI videos with tools like **Runway**, **Pik
 
 ---
 
-## 💡 4. Lighting & Mood
+## 4. Lighting & Mood
 
 | Lighting Style       | Description/Example |
 |----------------------|---------------------|
@@ -69,7 +69,7 @@ Use this template to build cinematic AI videos with tools like **Runway**, **Pik
 
 ---
 
-## 🧠 5. AI Prompt Example (for text-to-video tools)
+## 5. AI Prompt Example (for text-to-video tools)
 
 ```
 A confident young woman in a futuristic black trench coat walks through a neon-lit Tokyo alley at night. Close-up shot from behind, camera slowly tracks forward. Her face is partially lit by glowing advertisements. Rain falls gently. Cinematic depth of field with soft reflections on the wet pavement. 16:9 aspect ratio, 15 seconds.
@@ -77,7 +77,7 @@ A confident young woman in a futuristic black trench coat walks through a neon-l
 
 ---
 
-## 🗣️ 6. Dialogue or Narration (optional)
+## 6. Dialogue or Narration (optional)
 
 > Use this to include speech or monologue. You can use TTS (Text to Speech) with tools like ElevenLabs or Murf.
 
@@ -95,7 +95,7 @@ Character: "We don't run anymore. We fight."
 
 ---
 
-## 🎧 7. Sound Effects & Music
+## 7. Sound Effects & Music
 
 | Category           | Examples |
 |--------------------|----------|
@@ -105,7 +105,7 @@ Character: "We don't run anymore. We fight."
 
 ---
 
-## 🧩 8. Additional Elements (Optional)
+## 8. Additional Elements (Optional)
 
 | Element              | Use Case |
 |----------------------|----------|
@@ -115,7 +115,7 @@ Character: "We don't run anymore. We fight."
 
 ---
 
-## 🧪 9. Output & Rendering Tips
+## 9. Output & Rendering Tips
 
 | Format           | Best Use |
 |------------------|----------|
@@ -130,7 +130,7 @@ Character: "We don't run anymore. We fight."
 
 ---
 
-## 🔁 10. Workflow Recap
+## 10. Workflow Recap
 
 ```markdown
 1. Define the purpose & length of your video
